@@ -27,10 +27,11 @@ typos repaired by Joe Rodgers and Merlin Mann.
 
 ## License
 
+This work is released under the same license as the 43 Folders document:
 [Attribution-NonCommercial-ShareAlike 2.5](http://creativecommons.org/licenses/by-nc-sa/2.5/)
 
 Attribution — You must attribute the work in the manner specified by
-the author or licensor (but not in any way that suggests that they
+the author(s) or licensor (but not in any way that suggests that they
 endorse you or your use of the work).
 
 Noncommercial — You may not use this work for commercial purposes.
